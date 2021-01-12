@@ -1,5 +1,5 @@
-# noteTaker
-##Note Taker App
+# noteTaker App
+
 
 # Description
 AS A USER i want to take notes whenever, whereever i may need
