@@ -1,5 +1,5 @@
 # noteTaker App
-![NoteTakerHomePage](./routes/note-taker.png)
+![NoteTakerHomePage](./image/note-taker.png)
 
 # Description
 AS A USER i want to take notes whenever, whereever i may need
