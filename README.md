@@ -13,5 +13,5 @@ SO THAT i can attempt to keep myself organized as possible
 * Express
 
 ## Links
-GitHub:
-Deployed:
+GitHub:https://github.com/jennalala/noteTaker
+Deployed: https://radiant-gorge-12902.herokuapp.com/
